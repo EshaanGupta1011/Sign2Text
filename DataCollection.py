@@ -4,7 +4,7 @@ import numpy as np
 import math
 import time
 
-offset = 25
+offset = 26
 imgSize = 450
 counter = 0
 
